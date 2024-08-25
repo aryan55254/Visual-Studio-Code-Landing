@@ -1,0 +1,25 @@
+body {background-color: #0e0e0e;}
+.version {color:#9ba3b4;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;}
+.toplink {display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+.hyper {background-color: #0e0e0e;
+border-style: groove;
+border-color: #9ba3b4;
+}
+.hype {background-color: #0078d4;
+cursor: pointer;
+color:#fff;
+font-size: 16px;
+font-weight: 600;
+border-radius: 4px;
+padding: 8px,16px;
+line-height: 100%;
+border-color: #0e0e0e;}
