@@ -1,16 +1,20 @@
-body {background-color: #0e0e0e;}
-.version {color:#9ba3b4;
+body
+ {background-color: #0e0e0e;}
+.version
+ {color:#9ba3b4;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;}
-.toplink {display: flex;
+.toplink 
+{display: flex;
     justify-content: space-between;
     margin-left: 100px;
     margin-right: 150px;
     margin-top: 20px;
 }
-.hyper {background-color: #0e0e0e;
+.hyper
+ {background-color: #0e0e0e;
 border-style: groove;
 border-color: #9ba3b4;
 tab-size: 50px;
@@ -30,7 +34,8 @@ border-radius: 1.9px;
 height:30px;
 width:120px
 }
-.hero {background-color:#1a1919;
+.hero 
+{background-color:#1a1919;
 color:#9ba3b4;
 border-radius: 82px;
 padding-top: 0.5px;
@@ -41,9 +46,38 @@ height:50px;
 width:400px;
 font-size: 15px;
 }
-.hi {font-size: 70px;
+.hi
+ {font-size: 70px;
 color: rgb(240, 229, 229);}
-.hbk {background-color: #0078d4;
+.hbk 
+{background-color: #0078d4;
 color:#fff;
-height:20px;
-width:70px;}
+height:50px;
+width:275px;
+font-size: 20px;
+border-radius: 8px;}
+.gibbi
+{color:#9ba3b4
+}
+.hiyo
+{display: flex;
+justify-content: center;}
+.webli
+{color:#9ba3b4}
+.guulu
+{color:#9ba3b4}
+.gola
+{height:500px;
+width:800px}
+.ghi
+{display: flex;
+justify-content: space-between;
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 10px;
+margin-left: 1opx;
+}
+.bhoot{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
