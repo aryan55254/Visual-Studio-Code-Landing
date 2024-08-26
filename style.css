@@ -104,3 +104,19 @@ padding-right: 60px;
 }
 .hoola
 {color:#9ba3b4}
+.indi
+{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.gyh
+{
+   height: 500px;
+   width: 800px;
+}
+.kiki
+{
+    padding-right: 100px;
+}
