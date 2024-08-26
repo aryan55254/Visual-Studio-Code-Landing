@@ -168,4 +168,10 @@ padding-right: 60px;
 padding-top: 75px;
 padding-right: 25opx;
 padding-bottom: 5opx;
-margin-right: 100px;}
+margin-right: 100px;
+}
+.jija
+{
+    display: flex;
+    justify-content: space-between;
+}
